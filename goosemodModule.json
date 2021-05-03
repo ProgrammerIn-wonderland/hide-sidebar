@@ -1,8 +1,8 @@
 {
-  "name": "sidebar hider"
-  "description": "A nice command to hdie the sidebar (/sidebar)"
-  "main": "index.js"
-  "tags": ["ui", "commands"]
-  "authors": ["247349845298249728", "Alice"]
-  "version": "1.0.0"
+  "name": "sidebar hider",
+  "description": "A nice command to hdie the sidebar (/sidebar)",
+  "main": "index.js",
+  "tags": ["ui", "commands"],
+  "authors": ["247349845298249728", "Alice"],
+  "version": "0.0.1"
 }
